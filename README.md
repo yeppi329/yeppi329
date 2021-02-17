@@ -13,14 +13,11 @@
 <img src= "https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> <img src= "https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src= "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 </p>
 <br>
-<br>
 <h2 align="center"> 👉  Me 👈 </h2>
 <br>
 <p align="center">
-<img src= "https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white/>
- 
- <img src= "https://img.shields.io/badge/NaverBlog-72EF36?style=flat-square&logo=giphy&logoColor=black/>
+<img src= "https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/life_yerimming/"/>  <img src= "https://img.shields.io/badge/NaverBlog-72EF36?style=flat-square&logo=giphy&logoColor=black&link=https://blog.naver.com/yeppi329"/>
 </p>
+<br>
 <p align="right">
-<img src= "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23949494&title_bg=%23FF93DD&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></p
-
+<img src= "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23949494&title_bg=%23FF93DD&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></p>
