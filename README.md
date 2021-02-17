@@ -17,9 +17,9 @@
 <h2 align="center"> 👉  Me 👈 </h2>
 <br>
 <p align="center">
-<img src= "https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white/>(https://instagram.com/life_yerimming)
+<img src= "https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white/>
  
- <img src= "https://img.shields.io/badge/NaverBlog-72EF36?style=flat-square&logo=giphy&logoColor=black/>(https://blog.naver.com/yeppi329)
+ <img src= "https://img.shields.io/badge/NaverBlog-72EF36?style=flat-square&logo=giphy&logoColor=black/>
 </p>
 <p align="right">
 <img src= "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23949494&title_bg=%23FF93DD&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></p
