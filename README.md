@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?&color=FFC0CB&height=300&section=header&text=YELIM&fontSize=90&fontColor=#808080)
 <br>
-<br>
 <h2 align="center">👩🏻‍💻 Full-stack engineer 👩🏻‍💻 </h2>
 
 <p align="center"> Techs that I've used at least once</p>
