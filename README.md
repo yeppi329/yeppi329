@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?&color=FFC0CB&height=300&section=header&text=YELIM&fontSize=90&fontColor=#808080)
+![header](https://capsule-render.vercel.app/api?&color=FFC0CB&height=150&section=header&text=YELIM&fontSize=90&fontColor=#808080)
 <br>
 <h2 align="center">👩🏻‍💻 Full-stack engineer 👩🏻‍💻 </h2>
 
