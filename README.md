@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=200&section=header&text=YELIM&fontSize=70&fontColor=#808080)
 <br>
-<h2 align="center">👩🏻‍💻 Full-stack engineer 👩🏻‍💻 </h2>
+<h2 align="center">👩🏻‍💻 Backend developer 👩🏻‍💻 </h2>
 
 <p align="center"> Techs that I've used at least once</p>
 <br>
